@@ -2,27 +2,19 @@
 
 # Project Name
 
-> Description the project.
-
+> in this project we implemented modular workflow optimization tools in our projects such as webpack, created a page dynamically with JS and styled it with CSS.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Webpack
+- JS HTML CSS
 
 ## Live Demo (if available)
-
 [Live Demo Link](https://livedemo.com)
-
-
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
+get clone https://github.com/diegoh40/To-Do-list
 
 ### Prerequisites
 
@@ -38,19 +30,13 @@ To get a local copy up and running follow these simple example steps.
 
 
 
-## Authors
-
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Diego Hernández**
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@diehoh40](https://github.com/diegoh40)
+- Twitter: [@Diegoart80](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/diego-hernández-25280a100/)
 
 ## 🤝 Contributing
 
@@ -70,6 +56,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](./MIT.md) licensed.
